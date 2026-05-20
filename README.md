@@ -110,3 +110,6 @@ venv\Scripts\activate   # Windows
 
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+Open in your browser
+http://127.0.0.1:8000
